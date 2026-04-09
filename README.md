@@ -101,7 +101,6 @@ The system does not rely on increased effort. It works by:
 # tbc-ops-system/
 
 
-│
 ├── README.md
 ├── proposal/
 ├── scheduler/
