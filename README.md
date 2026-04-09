@@ -99,7 +99,7 @@ The system does not rely on increased effort. It works by:
 
 ## Project Structure
 # tbc-ops-system/
-tbc-ops-system/
+
 │
 ├── README.md  
 ├── proposal/
