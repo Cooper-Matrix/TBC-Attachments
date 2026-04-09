@@ -98,3 +98,19 @@ The system does not rely on increased effort. It works by:
 ---
 
 ## Project Structure
+# tbc-ops-system/
+│
+├── proposal/
+├── scheduler/
+├── checklist/
+├── model/
+├── workflow/
+├── data/
+└── README.md
+---
+
+## Goal
+
+The goal is not to add complexity, but to remove ambiguity.
+
+By turning a loosely followed process into a structured and visible system, this project makes it easier to understand performance, correct breakdowns, and improve consistency without slowing down operations.
