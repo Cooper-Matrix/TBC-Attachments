@@ -101,13 +101,14 @@ The system does not rely on increased effort. It works by:
 # tbc-ops-system/
 
 
-├── README.md  
+│
+├── README.md
 ├── proposal/
 ├── scheduler/
 ├── checklist/
 ├── model/
 ├── workflow/
-├── data/
+└── data/
 
 ---
 
