@@ -29,7 +29,7 @@ Option 1 (No setup):
 Download the executable here:
 👉 https://github.com/Cooper-Matrix/TBC-Attachments/releases
 
-Run the `.exe`, select your CSV or use may.csv, and generate the sheet.
+Run the `.exe`, select your CSV or use sample_schedule.csv, and generate the sheet.
 
 Option 2 (Run with Python):
 ```bash
